@@ -1,0 +1,10 @@
+---
+title: "Reading data into R with 'readxl'"
+author: "Kayla Wilson"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+#Learning 'readxl'
+
+We are workign with data and it's going to be amazing. 
